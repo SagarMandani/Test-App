@@ -24,13 +24,13 @@ https://github.com/user-attachments/assets/da842f5b-f29c-41aa-8d3e-6f9d77e50c49
 Download or clone this repo by using the below link:
 
 ```
-git clone https://github.com/SagarMandani/Test-App.git
+git clone https://github.com/SagarMandani/Authentication-App.git
 ```
 
 Go to project root folder
 
 ```
-cd Test-App
+cd Authentication-App
 ```
 
 ```
